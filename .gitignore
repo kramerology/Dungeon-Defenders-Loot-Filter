@@ -1,0 +1,8 @@
+bin/
+obj/
+dist/
+research/
+tools/__pycache__/
+drops.json
+drops-overlay.png
+filter-ui.png
